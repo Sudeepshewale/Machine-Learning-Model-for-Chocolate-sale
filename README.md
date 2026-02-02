@@ -1,1 +1,41 @@
-# Machine-Learning-Model-for-Chocolate-sale
+# 🧠 Machine Learning Project
+
+## 📌 Overview
+This project performs:
+
+✔ Data Cleaning  
+✔ Visualization (EDA)  
+✔ Feature Engineering  
+✔ Model Training  
+✔ Prediction & Evaluation  
+
+Built using Python and Scikit-learn.
+
+---
+
+## 📊 Visualizations
+- Histogram
+- Correlation Heatmap
+- Boxplot
+- Pie Chart
+- Pairplot
+
+---
+
+## 🤖 Model Used
+- Logistic Regression / Random Forest
+
+---
+
+## 📁 Files
+- notebook.ipynb → complete code
+- dataset.csv → dataset
+- requirements.txt → libraries
+
+---
+
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+jupyter notebook
